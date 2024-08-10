@@ -1,4 +1,4 @@
-::Cheer SE9 Sc5a
+:: Cheer SE9 Sc5a
 <<set _bra=window.wardrobeFuncs.getWornItem('bra')>>\
 <<set _underwear=window.wardrobeFuncs.getWornItem('underwear')>>\
 <<set _chastity=window.wardrobeFuncs.getWornItem('chastity')>>\

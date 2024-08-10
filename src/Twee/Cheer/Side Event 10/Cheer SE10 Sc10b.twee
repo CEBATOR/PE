@@ -1,4 +1,4 @@
-::Cheer SE10 Sc10b
+:: Cheer SE10 Sc10b
 <<set window.cheerMinigame.reset()>>\
 <<set $cheerleaders.bitchAffinity -= 3>>\
 <<if $cheerleaders.flags.slutUniform == 0>>\

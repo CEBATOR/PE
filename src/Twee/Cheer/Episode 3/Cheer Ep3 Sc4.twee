@@ -1,4 +1,4 @@
-::Cheer Ep3 Sc4
+:: Cheer Ep3 Sc4
 <<if $version == "strong">>\
     You try to put on a brave face. @@.heroT;“No sweat,”@@ you say. @@.heroT;“I eat workouts like this for lunch.”@@
         

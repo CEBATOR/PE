@@ -1,4 +1,4 @@
-::Cheer SE9 Sc1
+:: Cheer SE9 Sc1
 You pick up your phone and call $cheerFriend.name. After a couple of rings, she picks up. @@.cheerFriend;“Hey, you good to meet up?”@@ she asks.
 
 @@.heroT;“Yeah. All ready,”@@ you say.

@@ -1,4 +1,4 @@
-::Friend Teacher Tasks Seflie Female Clohtes p2
+:: Friend Teacher Tasks Seflie Female Clohtes p2
 \
 <<if  $dressChoice eq 4>>\
     <<set $friendDress to 1>>\

@@ -1,4 +1,4 @@
-::Teachers lounge task 3
+:: Teachers lounge task 3
 <<if $scene == "janitor">>\
 	You’ve just started cleaning when the door opens, and you turn to find the school janitor standing there.
 

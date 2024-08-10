@@ -1,4 +1,4 @@
-::Cheer Ep2 Sc7
+:: Cheer Ep2 Sc7
 $cheerFriend.name runs you through some basic cheerleading movements. Thankfully, the drills are pretty simple, just different places to hold your arms and what those positions are called. You’re having no trouble keeping up.
 
 @@.cheerFriend;“Remember, keep your movements quick and snappy,”@@ $cheerFriend.name says. @@.cheerFriend;“No spaghetti arms.”@@

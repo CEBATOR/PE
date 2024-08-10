@@ -1,4 +1,4 @@
-::Cheer Ep5 Sc11
+:: Cheer Ep5 Sc11
 You grab the bag from <<if $cheerleaders.flags.slutUniform == 0>>Heather’s<<else>>Veronica’s<<endif>> hands and Ashley smiles.
 
 @@.cheerBitch;“Good choice.

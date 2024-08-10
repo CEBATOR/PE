@@ -1,4 +1,4 @@
-::Friend Teacher Tasks Flats p2
+:: Friend Teacher Tasks Flats p2
 <<if $flatsChoice == 5>>\
 	You hold the leather shoes with the bar and the bow in your hand. You expected to find them too fussy, but as you look at them you realize they have a cuteness about them.  
 

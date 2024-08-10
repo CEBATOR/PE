@@ -1,4 +1,4 @@
-::Cheer SE7 Sc3
+:: Cheer SE7 Sc3
 <<set _outerwear=window.wardrobeFuncs.getWornItem('outerwear')>>\
 <<set _stockings=window.wardrobeFuncs.getWornItem("hosiery")>>\
 $cheerFriend.name looks you over in your <<if not window.wardrobeFuncs.isItemMasterWearing("cheerUniform")>>cheer outfit<<else>>school uniform<<endif>>. @@.cheerFriend;“It kind of sucks that we can’t go get something nicer from your place,”@@ she muses, @@.cheerFriend;“but this is an exhibition for a punk-rock band. Maybe we can turn your uniform into some sort of teenage rebellion sort of thing.”@@

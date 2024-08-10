@@ -1,4 +1,4 @@
-::Cheer SE11 running1
+:: Cheer SE11 running1
 <<set $cheerleaders.flags.prankTeam = "running">>\
 You dive into the nearest hamper, a bit unsettled to find it full of used jockstraps. <<if $kink.futa>>Feminine<<else>>Masculine<<endif>> voices fill the room just beyond your canvas hideaway, boasting about race times, taunting younger players, and loudly proclaiming recent sexual conquests. 
 

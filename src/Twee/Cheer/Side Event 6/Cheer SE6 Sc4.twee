@@ -1,4 +1,4 @@
-::Cheer SE6 Sc4
+:: Cheer SE6 Sc4
 <<if $version == 'a'>>\
 	<<set $cheerFriend.affinity += 2>>\
 	$cheerFriend.name’s face turns crimson when you say her name.

@@ -1,4 +1,4 @@
-::task practiceHeels
+:: task practiceHeels
 <<set _stock=window.wardrobeFuncs.getWornItem('hosiery')>>\
 <<set _chast=window.wardrobeFuncs.getWornItem('chastity')>>\
 <<if not $flags.mallKlipIntro>>\

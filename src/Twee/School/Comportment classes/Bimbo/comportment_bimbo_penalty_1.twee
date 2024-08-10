@@ -1,4 +1,4 @@
-::comportment_bimbo_penalty_1
+:: comportment_bimbo_penalty_1
 <<set $curScene = {}>>\
 <<set $player.ending.lessonSkip = true>>\
 <<if $player.ending.comportment.bimbo.hotelBimboLesson>>\

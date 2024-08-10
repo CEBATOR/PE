@@ -1,4 +1,4 @@
-::Friend Teacher Tasks Leg Hair Removal
+:: Friend Teacher Tasks Leg Hair Removal
 \
 <<set _wearingBoxers to window.wardrobeFuncs.isItemMasterWearing('boxers')>>\
 <<set _wearingChastity to window.wardrobeFuncs.isItemMasterWearing('chastity')>>\

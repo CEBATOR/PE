@@ -1,4 +1,4 @@
-::Friend Teacher Tasks Reactions
+:: Friend Teacher Tasks Reactions
 \
 <<set _wearingBoxers to window.wardrobeFuncs.isItemMasterWearing('boxers')>>\
 <<set _wearingChastity=window.wardrobeFuncs.getWornItem('chastity')>>\

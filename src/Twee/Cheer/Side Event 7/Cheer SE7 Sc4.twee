@@ -1,4 +1,4 @@
-::Cheer SE7 Sc4
+:: Cheer SE7 Sc4
 $cheerFriend.name positions you in front of the\
 <<if $body.makeup.level > 0>>\
 	vanity, and tries to wipe off your existing makeup. Unfortunately, Nancy’s special formula is more than capable of standing up to ordinary makeup remover. @@.cheerFriend;“Where did you find this super-stayfast stuff you’re wearing?”@@ $cheerFriend.name asks as she rubs harder.

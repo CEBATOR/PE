@@ -1,4 +1,4 @@
-::Friend Teacher Tasks Selfie Makeup
+:: Friend Teacher Tasks Selfie Makeup
 \
 <<set _wearingBoxers to window.wardrobeFuncs.isItemMasterWearing('boxers')>>\
 \

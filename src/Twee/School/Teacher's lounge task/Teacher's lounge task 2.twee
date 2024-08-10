@@ -1,4 +1,4 @@
-::Teachers lounge task 2
+:: Teachers lounge task 2
 <<if $clean>>\
 	<<if $tasksTeacher.cleanLounge.progress == 0>>\
     	You figure you should start with the pile of dirty dishes, and you’ve just finished filling the sink with sudsy water when you hear the door behind you open, followed by a shocked gasp.

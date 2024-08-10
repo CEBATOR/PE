@@ -1,4 +1,4 @@
-::Cheer SE11 Sc1
+:: Cheer SE11 Sc1
 <<if $kink.futa>>\
 	<<set $team.sport = "soccer">>\
 	<<set $team.mean = "Rebecca">>\

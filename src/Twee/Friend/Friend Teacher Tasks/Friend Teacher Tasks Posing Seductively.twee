@@ -1,4 +1,4 @@
-::Friend Teacher Tasks Posing Seductively
+:: Friend Teacher Tasks Posing Seductively
 <<set _under=window.wardrobeFuncs.getWornItem('underwear')>>\
 <<set _outer=window.wardrobeFuncs.getWornItem('outerwear')>>\
 <<set _chast=window.wardrobeFuncs.getWornItem('chastity')>>\

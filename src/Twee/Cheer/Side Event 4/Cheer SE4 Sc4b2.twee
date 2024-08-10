@@ -1,4 +1,4 @@
-::Cheer SE4 Sc4b2
+:: Cheer SE4 Sc4b2
 <div style="float: right; margin: 10px;"><<RandomImageFromPack "Cheerfriend park bathroom" 400 400>></div>\
 <<set _uniform=window.wardrobeFuncs.getWornItem('outerwear')>>\
 You decide to use the women’s restroom.\

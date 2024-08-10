@@ -1,4 +1,4 @@
-::Go to Cheerleading Practice
+:: Go to Cheerleading Practice
 \
 <<if $cheerleaders.progress < 11>>\
 	<<set _destination = "Cheer Ep">>\

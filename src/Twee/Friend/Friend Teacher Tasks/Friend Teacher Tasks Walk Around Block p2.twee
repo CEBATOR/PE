@@ -1,4 +1,4 @@
-::Friend Teacher Tasks Walk Around Block p2
+:: Friend Teacher Tasks Walk Around Block p2
 <<set _wearingChastity=window.wardrobeFuncs.getWornItem('chastity')>>\
 <<set _underwear=window.wardrobeFuncs.getWornItem('underwear')>>\
 <<if _underwear>>\

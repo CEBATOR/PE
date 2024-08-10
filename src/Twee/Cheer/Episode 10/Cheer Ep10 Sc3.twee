@@ -1,4 +1,4 @@
-::Cheer Ep10 Sc3
+:: Cheer Ep10 Sc3
 <<if $cheerleaders.position == 1>>\
 	When Rachel is finally satisfied with your performance, she moves you on to the L sit. This stunt is much more reliant on the ability of the flier, with your job being little more than supporting her. Your instructions are relatively simple, begin with a deep lunge for her to sit on, then wrap your arms around her back and leg. $cheerFriend.name’s directions, however, are much more complex: a quick sequence of contortions that end with her outside arm and leg extended, her inside leg tucked against your supporting leg, and her remaining arm draped across your back. 
 

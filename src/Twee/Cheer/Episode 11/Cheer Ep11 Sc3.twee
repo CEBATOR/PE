@@ -1,4 +1,4 @@
-::Cheer Ep11 Sc3
+:: Cheer Ep11 Sc3
 <<if $cheerleaders.ashleyProgress > 0 && $cheerleaders.bitchAffinity > 0>>\
 	As you ride along silently in the plush leather seat next to Ashley with the wind blowing through your hair, you realize a question has been gnawing at you.
 

@@ -1,4 +1,4 @@
-::Friend Teacher Tasks Selfie Female Clothes
+:: Friend Teacher Tasks Selfie Female Clothes
 \
 <<set _wearingChastity to window.wardrobeFuncs.getWornItem('chastity')>>\
 \

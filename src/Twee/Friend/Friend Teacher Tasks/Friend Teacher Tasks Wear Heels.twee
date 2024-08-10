@@ -1,4 +1,4 @@
-::Friend Teacher Tasks Wear Heels
+:: Friend Teacher Tasks Wear Heels
 <<if not $friendG.girlinessAttempt>>\
     /* Intro */\
     $teacher’s requirement was very specific; wearing heels in the mall. No dresses, no skirts, no pantyhose, just heels. You could even wear them with your school uniform on, although as you peer at your uniform it’s not as manly as it used to be. And someone might recognise you, in your uniform wearing heels. 

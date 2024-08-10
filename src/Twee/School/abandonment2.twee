@@ -1,4 +1,4 @@
-::abandonment2
+:: abandonment2
 <<set _underwear=window.wardrobeFuncs.getWornItem('underwear')>>\
 <<set _buttplug=window.wardrobeFuncs.getWornItem('buttplug')>>\
 <<if $variant == "fence1">>\

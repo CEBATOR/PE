@@ -1,4 +1,4 @@
-::Cheer SE8 Sc4
+:: Cheer SE8 Sc4
 <<if $friendMovie == "romCom">>\
 	Despite your expectations, you find yourself being quickly sucked into the love story playing out on the screen, feeling swells of emotion as the attractive couple glow closer, despite their initial hesitations. $cheerFriend.name seems just as engrossed as you, her eyes widening when the couple move in for a kiss, only to be interrupted by the girl’s father at the most inopportune moment.
 <<elseif $friendMovie == "artHouse">>\

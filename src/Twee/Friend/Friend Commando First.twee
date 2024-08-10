@@ -1,4 +1,4 @@
-::Friend Commando First
+:: Friend Commando First
 <<set _chast=window.wardrobeFuncs.getWornItem('chastity')>>\
 <<set _stock=window.wardrobeFuncs.getWornItem('hosiery')>>\
 <<if $body.bodyhair.level == 0>>\

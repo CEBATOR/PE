@@ -1,4 +1,4 @@
-::Ashley Trophy Wife Ending Sc9
+:: Ashley Trophy Wife Ending Sc9
 <<if not $deliverAshleyPackage>>\
 	You decide you don’t want to get $cheerFriend.name involved, and dispose of the package in a nearby garbage can, hoping you can come up with a decent excuse as to why you were unable to deliver it.
 

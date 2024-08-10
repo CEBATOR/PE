@@ -1,4 +1,4 @@
-::comportment_etiquette_2_3
+:: comportment_etiquette_2_3
 <<switch $player.ending.comportment.etiquette.scene1>>\
 <<case 'success'>>\
 	You arrive several minutes early to the room, only to find it locked. You try the door handle a couple times before leaning up against the wall.

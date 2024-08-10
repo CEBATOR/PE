@@ -1,4 +1,4 @@
-::Friend Teacher Tasks Dance
+:: Friend Teacher Tasks Dance
 <<if not $friendG.girlinessAttempt>>\
     You don’t know how to dance as a boy, let alone as a girl. You follow $friend trying to work out how to tell $friendG.him_her. 
 

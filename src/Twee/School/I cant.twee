@@ -1,4 +1,4 @@
-::I cant
+:: I cant
 \
 <<if $player.daring < 3>>\
 	<<Daring 3>>\

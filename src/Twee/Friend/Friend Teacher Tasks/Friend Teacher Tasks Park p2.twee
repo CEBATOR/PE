@@ -1,4 +1,4 @@
-::Friend Teacher Tasks Park p2
+:: Friend Teacher Tasks Park p2
 <<set _chast=window.wardrobeFuncs.getWornItem('chastity')>>\
 <<set _under=window.wardrobeFuncs.getWornItem('underwear')>>\
 <<set _stock=window.wardrobeFuncs.getWornItem('hosiery')>>\

@@ -1,4 +1,4 @@
-::Friend Teacher Tasks Girly Dessert 2
+:: Friend Teacher Tasks Girly Dessert 2
 <<set _shoes=window.wardrobeFuncs.getWornItem('shoes')>>\
 <<set _stock=window.wardrobeFuncs.getWornItem('hosiery')>>\
 <<set _outer=window.wardrobeFuncs.getWornItem('outerwear')>>\

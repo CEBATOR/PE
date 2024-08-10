@@ -1,4 +1,4 @@
-::Friend Gaming Play
+:: Friend Gaming Play
 <<set _buttplug=window.wardrobeFuncs.getWornItem('buttplug')>>\
 <<set _underwear=window.wardrobeFuncs.getWornItem('underwear')>>\
 <<set _chastity=window.wardrobeFuncs.getWornItem('chastity')>>\

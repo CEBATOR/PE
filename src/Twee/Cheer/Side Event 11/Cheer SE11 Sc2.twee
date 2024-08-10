@@ -1,4 +1,4 @@
-::Cheer SE11 Sc2
+:: Cheer SE11 Sc2
 Ashley leads you to the <<if $version1 == "football" and $kink.futa>>soccer<<else>>$version1<<endif>> team’s locker room, and you try the door only to find the knob steadfastly refusing to turn. @@.heroT;“Looks like it’s locked,”@@ you report.
 
 <<RandomImageFromPack 'Janitor Keys' 400 400 alignRight>>\

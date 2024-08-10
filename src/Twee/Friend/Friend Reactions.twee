@@ -1,4 +1,4 @@
-::Friend Reactions
+:: Friend Reactions
 <<set _passFriendReactions = true>>\
 <<if $player.perversion.friend >= 5>>\
 	<<if playerCode.hairstyle() == 1 and $friendG.reactions.hair == 0>>\

@@ -1,4 +1,4 @@
-::School Slut Bad End Sc4
+:: School Slut Bad End Sc4
 <<set _chastity=window.wardrobeFuncs.getWornItem('chastity')>>\
 <<set _plug=window.wardrobeFuncs.getWornItem('buttplug')>>\
 <<if not $kinkAllow.questionable>>\

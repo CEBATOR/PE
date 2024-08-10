@@ -1,4 +1,4 @@
-::Friend Teacher Tasks Crossdress at Park p1
+:: Friend Teacher Tasks Crossdress at Park p1
 <<set _under=window.wardrobeFuncs.getWornItem('underwear')>>\
 <<set _outer=window.wardrobeFuncs.getWornItem('outerwear')>>\
 <<set _chast=window.wardrobeFuncs.getWornItem('chastity')>>\

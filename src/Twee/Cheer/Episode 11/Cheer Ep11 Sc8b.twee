@@ -1,4 +1,4 @@
-::Cheer Ep11 Sc8b
+:: Cheer Ep11 Sc8b
 $cheerFriend.name sighs as you walk towards the table. @@.cheerFriend;“Let’s get this over with,”@@ she says. @@.cheerFriend;“They won’t stop until we humor them.”@@
 
 <<if $cheerleaders.flags.prankTeam == "football">>\

@@ -1,4 +1,4 @@
-::Cheer Ep10 Sc2
+:: Cheer Ep10 Sc2
 You, $cheerFriend.name, Ashley, and Rachel break off from the group, and Rachel immediately goes into “captain mode” once again. @@.cheerCaptain;“All right,”@@ she says, @@.cheerCaptain;“I’ll be spotting for you guys. I want you three to split up into two bases, and one flyer, either $cheerFriend.name or $cheerleaders.fakeName.”@@
 
 @@.cheerBitch;“Well, last time we worked on this, <<if $cheerleaders.position == 1>>$cheerFriend.name<<else>>$cheerleaders.fakeName<<endif>> was our flyer,”@@ Ashley offers.

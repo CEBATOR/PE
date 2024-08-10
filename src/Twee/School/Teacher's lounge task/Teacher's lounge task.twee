@@ -1,4 +1,4 @@
-::Teachers lounge task
+:: Teachers lounge task
 You peek into the teacher’s lounge, finding it presently empty though quite messy. Between the stack of dirty dishes piled in the sink, the disarrayed furniture and papers scattered about, it has more in common with some slacker’s apartment than a leisure area.
 
 <<if $tasksTeacher.cleanLounge.progress == 0>>\

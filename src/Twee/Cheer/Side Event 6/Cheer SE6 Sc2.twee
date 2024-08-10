@@ -1,4 +1,4 @@
-::Cheer SE6 Sc2
+:: Cheer SE6 Sc2
 The woman turns toward $cheerFriend.name’s voice, practically gliding across the floor as she makes her way towards you. She takes a long drag on her cigarette and studies $cheerFriend.name’s face breaks into a smile. @@.femvoice2;“$cheerFriend.name!”@@ the woman says warmly, in a vaguely French accent. @@.femvoice2;“I feel like it has been forever. How have you been, and what on earth are you doing in this part of town?”@@
 
 @@.cheerFriend;“Just getting some snacks,”@@ $cheerFriend.name replies. @@.cheerFriend;“I saw the sign on the old school. Are you really going to open back up?”@@

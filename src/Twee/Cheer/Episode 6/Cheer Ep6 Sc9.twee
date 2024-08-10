@@ -1,4 +1,4 @@
-::Cheer Ep6 Sc9
+:: Cheer Ep6 Sc9
 <<if $version == "handspring">>\
 	@@.heroT;“I wanna try it,”@@ you tell Sarah. @@.heroT;“Spot me.”@@
 

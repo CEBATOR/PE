@@ -1,4 +1,4 @@
-::choose_partner
+:: choose_partner
 <!--
 	Backwards compatability code.  Might delete later once most players have cleared it.
 -->\
@@ -212,14 +212,14 @@ $teacher rolls her eyes.  @@.teacher;"So picky,"@@ she says. @@.teacher;"There m
 <</for>>\
 [[Finish school day]]
 
-::I'm not interested in getting married yet
+:: I'm not interested in getting married yet
 You tell $teacher you're not interested in getting married to anyone yet.
 
 @@.teacher;"Very well.  Just let me know you're ready to find your spouse, and I'll get you set up."@@
 
 [[Finish school day]]
 
-::What about partner
+:: What about partner
 <<set _partners = $player.ending.comportment.partners>>\
 You ask $teacher about _partners[$id].name.
 
@@ -289,7 +289,7 @@ You ask $teacher about _partners[$id].name.
 
 [[Finish school day]]
 
-::get_married
+:: get_married
 <<if $chosenPartner == "guardian">>\
 	<<include [[Good Guardian Trophy Ending Sc1]]>>\
 <<elseif $chosenPartner == "coach">>\

@@ -1,4 +1,4 @@
-::Cheer SE6 Sc3
+:: Cheer SE6 Sc3
 You take a seat on the curb outside the store, a bit perturbed at having your time with $cheerFriend.name interrupted by her former teacher. You sit and watch the cars drive past as the shadows of the light posts in the parking lot continue to lengthen. 
 
 Finally, the door behind you opens, and Madame Fonteyn steps out. She gives you a polite wave and walks into the ballet studio down the strip mall. A few minutes later, $cheerFriend.name also exits, carrying with her <<if $cheerFriend.affinity >= 10>>a massive cup and <<if $cheerFriend.affinity >= 15>>a straw<<else>>two straws<<endif>><<else>>two cups and straws.<<endif>>

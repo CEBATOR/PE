@@ -1,4 +1,4 @@
-::Good Guardian Trophy Ending Sc3
+:: Good Guardian Trophy Ending Sc3
 To your shock, the next person to enter the room is $teacher! She is wearing <<if $flags.slutGoodEnd == 2>>the sumptuous royal-blue dress from your last “date” together<<else>>a sumptuous royal-blue dress that reaches the floor and clings to every curve of her magnificent body<<endif>>.
 
 You almost reflexively move to cover up before realizing just how pointless that action would be, considering what $teacher has already seen of you… made of you. In her hands, she carries a black garment bag and a shoebox emblazoned with the name of a brand you do not recognize. Given $teacher’s tastes, you assume the prestige of the brand is far beyond one you could ever expect to purchase on your own.

@@ -1,4 +1,4 @@
-::Friend CD Catch-up 01
+:: Friend CD Catch-up 01
 <<set _bra=window.wardrobeFuncs.getWornItem('bra')>>\
 <<set _stock=window.wardrobeFuncs.getWornItem('hosiery')>>\
 You are not sure what it is, but $friend seems a little edgy as $friendG.he_she waits for you to decide what to do.

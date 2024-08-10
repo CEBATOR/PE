@@ -1,4 +1,4 @@
-::Cheer SE10 Sc5
+:: Cheer SE10 Sc5
 <<if $cheerleaders.flags.wig>>\
 	<div style="float: right; margin: 10px;"><<RandomImageFromPack "Cheerleader Wig" 150 150>></div>\
 	<<set $cheerleaders.game.adjustedSlutScore++>>\

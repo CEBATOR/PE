@@ -1,4 +1,4 @@
-::Cheer Ep7 Sc2
+:: Cheer Ep7 Sc2
 After conditioning, you and $cheerFriend.name break off to do separate training, but Rachel stops you. @@.cheerCaptain;“Where do you think you’re going?”@@ she asks.
 
 @@.cheerFriend;“We were going to do some more tumbling practice while you practice for competition,”@@ $cheerFriend.name says.

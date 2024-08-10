@@ -1,4 +1,4 @@
-::Cheer Ep5 Sc2
+:: Cheer Ep5 Sc2
 You look over at $cheerFriend.name, but she just nods her head at you, indicating she’d rather you go first. 
 
 <div style="float: right; margin: 10px;"><<RandomImageFromPack "Cheerleader upside down" 400 400>></div>\

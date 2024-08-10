@@ -1,4 +1,4 @@
-::Good Guardian Trophy Ending Sc4
+:: Good Guardian Trophy Ending Sc4
 You arrive at the restaurant and $teacher walks you past the maitre’d, who simply smiles and nods in acknowledgement as you stride into the dining room. As $teacher promised, every eye in the place is locked onto you, making you extremely self-conscious as you try to follow $teacher to your table.
 
 <<if $player.ending.comportment.classStatus[1] == 5>>\

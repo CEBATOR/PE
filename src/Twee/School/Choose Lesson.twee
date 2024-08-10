@@ -1,4 +1,4 @@
-::Choose Lesson
+:: Choose Lesson
 <<set _scene = "none">>\
 <<set _forceFail = false>>\
 <<if timeCode.isMonday()>>\

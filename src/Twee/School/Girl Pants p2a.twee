@@ -1,4 +1,4 @@
-::Girl Pants p2a
+:: Girl Pants p2a
 <<set _hosiery=window.wardrobeFuncs.getWornItem('hoseriy')>>\
 <<if _hosiery>>\
     <<set _stockings = _hosiery.masterItem == "stockings">>\

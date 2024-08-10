@@ -1,4 +1,4 @@
-::Friend Teacher Tasks Wear Stockings
+:: Friend Teacher Tasks Wear Stockings
 \
 <<set _wornUnderwear to window.wardrobeFuncs.getWornItem('underwear')>>\
 <<set _wearingGString to window.wardrobeFuncs.isItemMasterWearing('sexyPanties')>>\

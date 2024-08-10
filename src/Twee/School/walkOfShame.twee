@@ -1,4 +1,4 @@
-::walkOfShame1
+:: walkOfShame1
 When you enter $teacher’s classroom, she tells you to close and lock the door. You shakily obey, fumbling with the lock as you realize whatever’s about to happen can’t be good.
 
 <<if $player.perversion.teacher > 9>>\

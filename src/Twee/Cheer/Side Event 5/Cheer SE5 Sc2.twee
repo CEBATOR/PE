@@ -1,4 +1,4 @@
-::Cheer SE5 Sc2
+:: Cheer SE5 Sc2
 <div style="float: right; margin: 10px;"><<RandomImageFromPack "Cheerfriend Room" 400 400>></div>\
 @@.cheerFriend;“Tada!”@@ $cheerFriend.name announces as she throws open the door to her room. 
 

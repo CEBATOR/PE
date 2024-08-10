@@ -1,4 +1,4 @@
-::Cheer Ep11 Sc7
+:: Cheer Ep11 Sc7
 Several of the girls are already in the main room, resting on reclining chairs with their faces covered in a mysterious green goo, which you assume to be a facial mask.\
 <<if $cheerleaders.ashleyProgress > 0 && $cheerleaders.bitchAffinity > 0>>\
 	You notice that $cheerFriend.name, Sarah, and a couple of other cheerleaders are missing, presumably being taken back to the massage rooms.

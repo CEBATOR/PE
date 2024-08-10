@@ -1,4 +1,4 @@
-::Store Widgets 2
+:: Store Widgets 2
 \
 <<widget "showStores2">>\
     <<set $currentStore="">>\

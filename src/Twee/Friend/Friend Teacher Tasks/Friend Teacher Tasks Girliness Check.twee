@@ -1,4 +1,4 @@
-::Friend Teacher Tasks Girliness Check
+:: Friend Teacher Tasks Girliness Check
 /* TODO: check for overlap with Friend Teacher Tasks Reactions */\
 <<set _under=window.wardrobeFuncs.getWornItem('underwear')>>\
 <<set _outer=window.wardrobeFuncs.getWornItem('outerwear')>>\

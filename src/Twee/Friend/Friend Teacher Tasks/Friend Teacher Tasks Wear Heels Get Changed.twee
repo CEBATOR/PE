@@ -1,4 +1,4 @@
-::Friend Teacher Tasks Wear Heels Get Changed
+:: Friend Teacher Tasks Wear Heels Get Changed
 <<set _chast=window.wardrobeFuncs.getWornItem('chastity')>>\
 <<set _under=window.wardrobeFuncs.getWornItem('underwear')>>\
 <<set _stock=window.wardrobeFuncs.getWornItem('hosiery')>>\

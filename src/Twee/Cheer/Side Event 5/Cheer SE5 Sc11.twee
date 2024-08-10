@@ -1,4 +1,4 @@
-::Cheer SE5 Sc11
+:: Cheer SE5 Sc11
 <<set $cheerFriend.flags.genderPref = $version>>\
 <<if $version == "boy">>\
 	@@.heroT;“I, uh, haven’t found the right guy yet,”@@ you meekly admit.

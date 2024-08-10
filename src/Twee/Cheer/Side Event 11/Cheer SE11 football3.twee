@@ -1,4 +1,4 @@
-::Cheer SE11 football3
+:: Cheer SE11 football3
 <<if $kinkAllow.bondage>>\
 	The $team.sport player stands back and considers you for a moment. <span @class = "$team.voice+'8'">“Hey, $team.center, go grab me a towel would you?”</span> $futa.he_she asks the burly-looking <<if not $kink.futa>>meathead<<else>>giantess<<endif>> next to $futa.him_her.
 

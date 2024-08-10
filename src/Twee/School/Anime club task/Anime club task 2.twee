@@ -1,4 +1,4 @@
-::Anime club task 2
+:: Anime club task 2
 <<selectScene AnimeClubTask RND>>\
 <<scene 75>>\
 	<div style="float: right; margin: 10px;"><<RandomImageFromPack "Anime Club Logo" 400 400>></div>\

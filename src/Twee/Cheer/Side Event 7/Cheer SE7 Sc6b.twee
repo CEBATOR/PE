@@ -1,4 +1,4 @@
-::Cheer SE7 Sc6b
+:: Cheer SE7 Sc6b
 <<set $cheerFriend.affinity ++>>\
 @@.heroT;“Hey, you’ve been a mess all day today. What’s wrong?”@@ you ask as you sit down.
 

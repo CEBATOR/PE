@@ -1,4 +1,4 @@
-::Reward team task
+:: Reward team task
 <<if $kink.futa>>\
 	<<set $futa.team = 'soccer'>>\
 	<<set $futa.Team = 'Soccer'>>\

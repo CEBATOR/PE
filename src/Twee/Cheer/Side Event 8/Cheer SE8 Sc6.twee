@@ -1,4 +1,4 @@
-::Cheer SE8 Sc6
+:: Cheer SE8 Sc6
 The new voice comes completely by surprise, causing you both to jump<<if $cheerFriend.affinity < 5>> and sending the remnant of your popcorn bowl spilling across the floor<<endif>>. $cheerFriend.name is immediately on her feet, pausing the movie as her mom also walks into the room. @@.cheerFriend;“Dad, Mom, you guys are home early,”@@ she says with a waver in her voice that you’re not sure is from surprise or nervousness.
 
 @@.femvoice9;“The planetarium was having technical difficulties,”@@ $cheerFriend.name’s mom explains. @@.femvoice9;“So we thought we’d see if you and your friend wanted to go out for dinner. Your little brother is staying over at a friend’s, anyways.”@@

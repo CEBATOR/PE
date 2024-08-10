@@ -1,4 +1,4 @@
-::Cheer Ep9 Sc4
+:: Cheer Ep9 Sc4
 <<removeItemVariantFromInventory 'rookie_uniform'>>\
 <<addItemVariantToInventory 'cheer_dress'>>\
 <<wearItemVariant 'cheer_dress'>>\

@@ -1,4 +1,4 @@
-::Klip_Klop_events
+:: Klip_Klop_events
 <<set _shoes=window.wardrobeFuncs.getWornItem('shoes')>>\
 <<if $player.daring lt 5>>\
   <<set $toggleStoreMenu to 1>>\

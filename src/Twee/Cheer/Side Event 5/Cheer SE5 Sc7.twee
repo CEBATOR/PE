@@ -1,4 +1,4 @@
-::Cheer SE5 Sc7
+:: Cheer SE5 Sc7
 You grab the copy of <<if $version == "shooter">>Call of Honor<<else>>Bustin’ Grooves<<endif>>. @@.heroT;“I’ll play you in this,”@@ you announce.
 
 <<if $version == "shooter">>\

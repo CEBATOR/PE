@@ -1,4 +1,4 @@
-::Cheer Ep9 Sc5
+:: Cheer Ep9 Sc5
 @@.femvoice5;“Has the great Pepperton dynasty come to an end?”@@ Hannah, the Wombat’s captain, says with a fake gasp as she and several other Wombat cheerleaders walk up, conspicuously holding their first place trophy.
 
 <<if $player.fitness < 10>>\

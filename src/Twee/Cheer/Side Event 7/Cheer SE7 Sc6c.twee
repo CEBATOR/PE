@@ -1,4 +1,4 @@
-::Cheer SE7 Sc6c
+:: Cheer SE7 Sc6c
 <<set $cheerFriend.affinity -= 1 >>\
 You sit down next to $cheerFriend.name and try to be reassuring. @@.heroT;“Hey, don’t worry about singing in front of those people,”@@ you tell her. @@.heroT;“If anyone can nail your mom’s songs, I know it’s you.”@@
 

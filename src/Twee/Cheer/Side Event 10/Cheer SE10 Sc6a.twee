@@ -1,4 +1,4 @@
-::Cheer SE10 Sc6a
+:: Cheer SE10 Sc6a
 <<if $cheerleaders.flags.slutUniform == 0>>\
 	<<set $player.buttPlugInflate = 0>>\
 	<<addItemVariantToInventory 'buttplug_inflate_0'>>\

@@ -1,4 +1,4 @@
-::Cheer Ep7 Sc6
+:: Cheer Ep7 Sc6
 <<set _underwear=window.wardrobeFuncs.getWornItem('underwear')>>\
 <<set _bra=window.wardrobeFuncs.getWornItem('bra')>>\
 <<if $scene == "rookie">>\

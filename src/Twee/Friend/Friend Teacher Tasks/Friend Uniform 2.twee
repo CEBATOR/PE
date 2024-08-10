@@ -1,4 +1,4 @@
-::Friend Uniform 2
+:: Friend Uniform 2
 <<set _outer = window.wardrobeFuncs.getWornItem('outerwear')>>\
 <<set _buttplug=window.wardrobeFuncs.getWornItem('buttplug')>>\
 $friend sits up with a self-satisfied smug grin plastered all over $friendG.his_her perfect face.

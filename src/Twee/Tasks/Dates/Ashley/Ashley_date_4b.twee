@@ -1,4 +1,4 @@
-::Ashley_date_4b
+:: Ashley_date_4b
 <<switch $style>>\
 <<case 'poor'>>\
 	@@.heroT;“I, uh... can’t afford that much...”@@ you explain, the words not even out of your mouth before Ashley’s expression has narrowed in disapproval.

@@ -1,4 +1,4 @@
-::Cheer Ep2 Sc5
+:: Cheer Ep2 Sc5
 \
 <<set _late = $cheerleaders.flags.lateForPractice>>\
 You jog onto the practice field, making your way over to where the cheerleaders <<if _late>>are exercising.<<else>>stand.<<endif>> Rachel <<if _late>>angrily <<endif>>beckons for you to join her at the front of the <<if _late>>group before she blows her whistle to get the girls’ attentions.<<else>>group.<<endif>>

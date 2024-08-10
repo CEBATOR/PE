@@ -1,4 +1,4 @@
-::Ashley Trophy Wife Ending Sc4
+:: Ashley Trophy Wife Ending Sc4
 <<set _classStatus = $player.ending.comportment.classStatus>>\
 Your cock strains in its cage as you look at the bottle, but you’re unsure if that is due to Ashley’s domineering or the prospect of applying sunscreen to her. Either way, it’s more than enough to make your decision for you, and you step over to the bottle,\
 <<if _classStatus[1] != 4>>\

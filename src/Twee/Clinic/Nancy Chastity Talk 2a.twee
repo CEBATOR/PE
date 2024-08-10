@@ -1,4 +1,4 @@
-::Nancy Chastity Talk 2a
+:: Nancy Chastity Talk 2a
 <<if $kinkAllow.penisShrink && not $body.penisShrink.level == 1>>\
 	<<set $body.penisShrink.level = 1>>\
 	<<set $player.bribeDiscount -= $body.penisShrink.level1.cost>>\

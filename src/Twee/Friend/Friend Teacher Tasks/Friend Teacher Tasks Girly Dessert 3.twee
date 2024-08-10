@@ -1,4 +1,4 @@
-::Friend Teacher Tasks Girly Dessert 3
+:: Friend Teacher Tasks Girly Dessert 3
 <<set _outer=window.wardrobeFuncs.getWornItem('outerwear')>>\
 Before you can respond, the waitress returns with another tray. <<if $friendG.gender == "T">>Two white cloches sit on the silver tray, obscuring any view of the unicones.<<else>>$friend’s souffle sits to one side, steam rising from the chocolate tower jutting from the top of the ramekin. The white cloch sitting beside it on the silver tray obscures any view of the unicone.<<endif>> She leans forward and sets the cloche in front of you, her luxurious perfume washing over you and making you smile. Eyes fixed on the cloche, you watch as her perfectly manicured fingers lifts the cover to reveal…
 

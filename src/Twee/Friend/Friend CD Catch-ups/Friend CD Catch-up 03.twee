@@ -1,4 +1,4 @@
-::Friend CD Catch-up 03
+:: Friend CD Catch-up 03
 <<set _under=window.wardrobeFuncs.getWornItem('underwear')>>\
 <<set _chast=window.wardrobeFuncs.getWornItem('chastity')>>\
 <<set _stock=window.wardrobeFuncs.getWornItem('hosiery')>>\

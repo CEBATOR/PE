@@ -1,4 +1,4 @@
-::Cheer Ep7 Sc1
+:: Cheer Ep7 Sc1
 <<RandomImageFromPack 'Cheerleader Practice Field' 400 400 alignRight>>\
 <<if $cheerFriend.progress == 5>>\
 	@@.cheerFriend;“Hey. Thanks for coming over to my house on Satuday,”@@ $cheerFriend.name says as you line up for conditioning. @@.cheerFriend;“Hope my family wasn’t too crazy for you.”@@

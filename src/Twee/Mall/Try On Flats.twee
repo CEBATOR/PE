@@ -1,4 +1,4 @@
-::Try On Flats
+:: Try On Flats
 <<set _stockings=window.wardrobeFuncs.getWornItem('hosiery')>>\
 <<if _stockings>>\
 	<<set _socks = _stockings.masterItem=='socks'>>\

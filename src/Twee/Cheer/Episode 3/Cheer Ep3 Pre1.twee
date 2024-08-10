@@ -1,4 +1,4 @@
-::Cheer Ep3 Pre1
+:: Cheer Ep3 Pre1
 <<RandomImageFromPack "Cheerleader Rain School" 400 400 "alignRight">>\
 \
 <<set _underwear=window.wardrobeFuncs.getWornItem('underwear')>>\

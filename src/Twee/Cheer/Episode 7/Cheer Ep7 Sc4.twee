@@ -1,4 +1,4 @@
-::Cheer Ep7 Sc4
+:: Cheer Ep7 Sc4
 @@.cheerCaptain;“What about it?”@@ Rachel asks $cheerFriend.name.
 
 @@.cheerFriend;“Ashely totally lied to you.”@@ $cheerFriend.name replies. @@.cheerFriend;“$cheerleaders.fakeName was on her team as well, but Ashley didn’t tell you because she didn’t want to share the title.”@@

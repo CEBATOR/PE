@@ -1,4 +1,4 @@
-::Cheer SE1 Sc2
+:: Cheer SE1 Sc2
 <<if $version == "friend">>\
 	@@.heroT;“It’s actually kind of your fault,”@@ you confess to her.
 

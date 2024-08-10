@@ -1,4 +1,4 @@
-::Cheer SE8 Sc3
+:: Cheer SE8 Sc3
 You pop in the <<if $friendMovie == "romCom">>rom-com<<elseif $friendMovie == "artHouse">>art house film<<else>>action movie<<endif>> and settle back onto the couch just as $cheerFriend.name appears with the bowl of popcorn.\
 <<if $cheerFriend.affinity < 5>>\
 	She is wearing a light-pink long-sleeve top with “//l’amour//” written across the chest in script and matching pants dotted with pink and yellow hearts. Her feet are nestled in a pair of pink, clog-style slippers with fur trim. Even though the outfit hangs loosely on $cheerFriend.name, clearly a pajama or sleep set, it is not so baggy as to hide the curve of her breasts or the tight roundness of her ass. Your cock responds instantly to the sight, making you wince a bit as it is confined by your chastity cage.

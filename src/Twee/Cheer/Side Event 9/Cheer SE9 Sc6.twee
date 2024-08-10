@@ -1,4 +1,4 @@
-::Cheer SE9 Sc6
+:: Cheer SE9 Sc6
 <<if $cheerFriend.concertOutfit != "none">>\
 	@@.cheerFriend;“Here you go!”@@ $cheerFriend.name says as she hands you your bag.\
 <<else>>\
